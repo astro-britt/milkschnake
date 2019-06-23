@@ -6,3 +6,6 @@ It needs to handle:
 * passing the agent's decision to the battlesnake server
 * letting the agent know when the game has finished
 * saving data relevant to training the agent
+
+
+**Note:** ignore the starter_snake_python_master directory; I've just copied it in here for convenience for now while I figure out exactly what I need from it. 

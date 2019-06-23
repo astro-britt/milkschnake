@@ -1,0 +1,7 @@
+{
+  "name": "milkschnake",
+  "description": "a reinforcement learning snake for battlesnake 2020",
+  "repository": "https://github.com/astro-britt/milkschnake",
+  "website": "http://battlesnake.io",
+  "keywords": ["battlesnake","milkschnake"]
+}
